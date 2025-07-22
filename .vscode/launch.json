@@ -1,0 +1,648 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "binarySearch",
+            "request": "launch",
+            "mainClass": "binarySearch",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLargestNum",
+            "request": "launch",
+            "mainClass": "ArrayLargestNum",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LinerSearchArray",
+            "request": "launch",
+            "mainClass": "LinerSearchArray",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ArrayFunArg",
+            "request": "launch",
+            "mainClass": "ArrayFunArg",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "diamondPattern",
+            "request": "launch",
+            "mainClass": "diamondPattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "holoRhombus",
+            "request": "launch",
+            "mainClass": "holoRhombus",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "solidRhombus",
+            "request": "launch",
+            "mainClass": "solidRhombus",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "butterflyPattern",
+            "request": "launch",
+            "mainClass": "butterflyPattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Pattern01triangle",
+            "request": "launch",
+            "mainClass": "Pattern01triangle",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "floyedTringlePattern",
+            "request": "launch",
+            "mainClass": "floyedTringlePattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "invertedHalfPyramidNum",
+            "request": "launch",
+            "mainClass": "invertedHalfPyramidNum",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "halfpyramid",
+            "request": "launch",
+            "mainClass": "halfpyramid",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "PatternHollwRact",
+            "request": "launch",
+            "mainClass": "PatternHollwRact",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FUnctionQ5",
+            "request": "launch",
+            "mainClass": "FUnctionQ5",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunctionQ4",
+            "request": "launch",
+            "mainClass": "FunctionQ4",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunctionQ3",
+            "request": "launch",
+            "mainClass": "FunctionQ3",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunctionQ2",
+            "request": "launch",
+            "mainClass": "FunctionQ2",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunctionQ1",
+            "request": "launch",
+            "mainClass": "FunctionQ1",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunPrimeInRange",
+            "request": "launch",
+            "mainClass": "FunPrimeInRange",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunPrime",
+            "request": "launch",
+            "mainClass": "FunPrime",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunbinomialCoefficent",
+            "request": "launch",
+            "mainClass": "FunbinomialCoefficent",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunFactorial",
+            "request": "launch",
+            "mainClass": "FunFactorial",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunProduct2Num",
+            "request": "launch",
+            "mainClass": "FunProduct2Num",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "FunAdd2Num",
+            "request": "launch",
+            "mainClass": "FunAdd2Num",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "functionSyntax",
+            "request": "launch",
+            "mainClass": "functionSyntax",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "characterPattern",
+            "request": "launch",
+            "mainClass": "characterPattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "halfPyramidPattern",
+            "request": "launch",
+            "mainClass": "halfPyramidPattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "invertedStarPattern",
+            "request": "launch",
+            "mainClass": "invertedStarPattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "NetstedLoop",
+            "request": "launch",
+            "mainClass": "NetstedLoop",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ4",
+            "request": "launch",
+            "mainClass": "LoopQ4",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ3",
+            "request": "launch",
+            "mainClass": "LoopQ3",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ2",
+            "request": "launch",
+            "mainClass": "LoopQ2",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LoopQ1",
+            "request": "launch",
+            "mainClass": "LoopQ1",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "PrimeOrNot",
+            "request": "launch",
+            "mainClass": "PrimeOrNot",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Qcontinue",
+            "request": "launch",
+            "mainClass": "Qcontinue",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Continue",
+            "request": "launch",
+            "mainClass": "Continue",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ArithmaticOperator",
+            "request": "launch",
+            "mainClass": "ArithmaticOperator",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "AssignmentOperator",
+            "request": "launch",
+            "mainClass": "AssignmentOperator",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "BasicCalculater",
+            "request": "launch",
+            "mainClass": "BasicCalculater",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "DataType",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "DoWhileLoop",
+            "request": "launch",
+            "mainClass": "DoWhileLoop",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "IfBig2No",
+            "request": "launch",
+            "mainClass": "IfBig2No",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LargestNoIn3",
+            "request": "launch",
+            "mainClass": "LargestNoIn3",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperators",
+            "request": "launch",
+            "mainClass": "LogicalOperators",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Loop1_10NPrint",
+            "request": "launch",
+            "mainClass": "Loop1_10NPrint",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Loop1_nNoPrint",
+            "request": "launch",
+            "mainClass": "Loop1_nNoPrint",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "OperatorQ1",
+            "request": "launch",
+            "mainClass": "OperatorQ1",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "OperatorQ2",
+            "request": "launch",
+            "mainClass": "OperatorQ2",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "OperatorQ3",
+            "request": "launch",
+            "mainClass": "OperatorQ3",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "OperatorQ4",
+            "request": "launch",
+            "mainClass": "OperatorQ4",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "OperatorQ5",
+            "request": "launch",
+            "mainClass": "OperatorQ5",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "PassOrFail",
+            "request": "launch",
+            "mainClass": "PassOrFail",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "Product",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Qbreak",
+            "request": "launch",
+            "mainClass": "Qbreak",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "RelationalOperation",
+            "request": "launch",
+            "mainClass": "RelationalOperation",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ReverseGivenNum",
+            "request": "launch",
+            "mainClass": "ReverseGivenNum",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNum",
+            "request": "launch",
+            "mainClass": "ReverseNum",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "SquarePattern",
+            "request": "launch",
+            "mainClass": "SquarePattern",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "SumInput",
+            "request": "launch",
+            "mainClass": "SumInput",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "UnaryOperaters",
+            "request": "launch",
+            "mainClass": "UnaryOperaters",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "VariableQ1",
+            "request": "launch",
+            "mainClass": "VariableQ1",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "VariableQ2",
+            "request": "launch",
+            "mainClass": "VariableQ2",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "VariableQ3",
+            "request": "launch",
+            "mainClass": "VariableQ3",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "VariableQ4",
+            "request": "launch",
+            "mainClass": "VariableQ4",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "breakStm",
+            "request": "launch",
+            "mainClass": "breakStm",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "conditionalQ1",
+            "request": "launch",
+            "mainClass": "conditionalQ1",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "conditionalQ2",
+            "request": "launch",
+            "mainClass": "conditionalQ2",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "conditionalQ3",
+            "request": "launch",
+            "mainClass": "conditionalQ3",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "conditionalQ4",
+            "request": "launch",
+            "mainClass": "conditionalQ4",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "conditionalQ5",
+            "request": "launch",
+            "mainClass": "conditionalQ5",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "forLoop",
+            "request": "launch",
+            "mainClass": "forLoop",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ifElseOddEven",
+            "request": "launch",
+            "mainClass": "ifElseOddEven",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "ifelseAge",
+            "request": "launch",
+            "mainClass": "ifelseAge",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "sum",
+            "request": "launch",
+            "mainClass": "sum",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "sumOfNNaturalNOWhile",
+            "request": "launch",
+            "mainClass": "sumOfNNaturalNOWhile",
+            "projectName": "VS Alpha java_f124a434"
+        },
+        {
+            "type": "java",
+            "name": "taxcalculate",
+            "request": "launch",
+            "mainClass": "taxcalculate",
+            "projectName": "VS Alpha java_f124a434"
+        }
+    ]
+}
