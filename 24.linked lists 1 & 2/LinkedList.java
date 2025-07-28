@@ -229,32 +229,52 @@ public class LinkedList{
         return true;
     }
 
+    // check the cyclic
+    public static boolean isCycle(){
+        Node slow=head;
+        Node fast=head;
+        while(fast != null  && fast.next != null){
+            slow=slow.next;
+            fast=fast.next.next;
+            if(slow==fast){
+                return true;
+            }
+           
+        }
+         return false;
+    }
+
     public static void main(String [] args){
+        /* 
+        //new list 
         LinkedList ll =new LinkedList();
         ll.print();
-        ll.addFirst(2);
+        ll.addFirst(2);//add in the first of list 
          ll.print();
         ll.addFirst(1);
          ll.print();
-        ll.addLast(3);
+        ll.addLast(3); // ad in the last of list
          ll.print();
         ll.addLast(4);
          ll.print();
-         ll.add(2, 9);
+         ll.add(2, 9); //add in particular index
          ll.print();
         System.out.println("----------");
 
-         System.out.println(size);
-        // ll.removefirst();
+         System.out.println(size); //print the size of no
+        // ll.removefirst();       
         ll.print();
         // ll.removeLast();
         ll.print();
         System.out.println(size);
         System.out.println("----------");
+        
+        //itrative search
         System.out.println(ll.itrSearch(3));
         System.out.println(ll.itrSearch(10));
 
         System.out.println("___");
+        //recursive search
         System.out.println(ll.recSearch(3));
         System.out.println(ll.recSearch(10));
 
@@ -268,9 +288,18 @@ public class LinkedList{
         ll.print();
 
         System.out.println("--------------------");
-        System.out.println(ll.checkPalindrom());
+        System.out.println(ll.checkPalindrom()); //check palindrom
+        
+        */
 
+        // linked list 2
 
+        System.out.println("----Check the cyclic or not -----");
+        head=new Node(1);
+        head.next=new Node(2);
+        head.next.next=new Node(3);
+        head.next.next.next=head;
+        System.out.println(isCycle());
 
     }
 }
