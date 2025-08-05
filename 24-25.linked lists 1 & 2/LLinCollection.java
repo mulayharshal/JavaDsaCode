@@ -9,6 +9,7 @@ public class LLinCollection {
         list.addLast(2);
         list.addFirst(0);
         
+        
         System.out.println(list);
 
         //remove
