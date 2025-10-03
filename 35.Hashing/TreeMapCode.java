@@ -8,7 +8,7 @@ public class TreeMapCode {
         tm.put("us", 50);
         tm.put("indonesia", 6);
         tm.put("nepal", 5);
-        System.out.println(tm);
+        System.out.println(tm );
 
     }
 }
